@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Hemachithra)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **hemachithrav/hemachithrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
